@@ -10,7 +10,6 @@ import java.awt.Graphics;
 public class Stroke implements Shape {
 
 	// TODO entirely your job
-	// XXX remove instance variables and method bodies
 
 	public Stroke(final Color color, final Shape shape) {
 	}
